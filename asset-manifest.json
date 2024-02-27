@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/skakuda20.github.io/static/css/main.db62923b.css",
+    "main.js": "/skakuda20.github.io/static/js/main.a400c16e.js",
+    "static/js/453.f87592ff.chunk.js": "/skakuda20.github.io/static/js/453.f87592ff.chunk.js",
+    "static/media/IMG_6638.jpg": "/skakuda20.github.io/static/media/IMG_6638.65b9a6421aa2d57c68c4.jpg",
+    "static/media/IMG_6882.JPG": "/skakuda20.github.io/static/media/IMG_6882.6f50b86069ca6dfa0abd.JPG",
+    "static/media/card_scanner.jpg": "/skakuda20.github.io/static/media/card_scanner.adb94908d191eded562e.jpg",
+    "static/media/mse_fvc.png": "/skakuda20.github.io/static/media/mse_fvc.caf6ad7513c6dc3df41e.png",
+    "static/media/augmented_tiles.png": "/skakuda20.github.io/static/media/augmented_tiles.8199ffa91e481e692bf6.png",
+    "static/media/face_detect.png": "/skakuda20.github.io/static/media/face_detect.36a6d00b226c7da37d26.png",
+    "static/media/moodcloud_logo.png": "/skakuda20.github.io/static/media/moodcloud_logo.52432ddaf1843b56d2d1.png",
+    "static/media/hand_alignment.jpeg": "/skakuda20.github.io/static/media/hand_alignment.1274bfc2024ebfbf7a22.jpeg",
+    "index.html": "/skakuda20.github.io/index.html",
+    "main.db62923b.css.map": "/skakuda20.github.io/static/css/main.db62923b.css.map",
+    "main.a400c16e.js.map": "/skakuda20.github.io/static/js/main.a400c16e.js.map",
+    "453.f87592ff.chunk.js.map": "/skakuda20.github.io/static/js/453.f87592ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.a400c16e.js"
+  ]
+}
